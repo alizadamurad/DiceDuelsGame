@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "703618888102",
+    "project_id": "diceduel-75040",
+    "storage_bucket": "diceduel-75040.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:703618888102:android:0b891e80111d8d45efdf67",
+        "android_client_info": {
+          "package_name": "com.example.project_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "703618888102-8mh296gtkn24fhpecdgg9oc8b5ge6h8b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.project_1",
+            "certificate_hash": "77485eda9995d32312e0ba3109fd55404e7d93b6"
+          }
+        },
+        {
+          "client_id": "703618888102-apibffthiuftlosm3thmum51mblth2np.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqA60k6pismXAUamw_H5Y7GyU0ZY16Lw0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "703618888102-apibffthiuftlosm3thmum51mblth2np.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "703618888102-80jdt2vv4tgnrbaruci1pp8vkeu4naqp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.project1"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
